@@ -1,0 +1,41 @@
+.calendar{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.devList{
+    margin: 20px;
+    padding: 20px;
+    border-radius: 20px;
+    background-color: rgb(127, 88, 168);
+}
+
+.consumption{
+    margin: 20px;
+    padding: 20px;
+    border-radius: 20px;
+    background-color: rgb(127, 88, 168);
+}
+
+input {
+    border-radius: 10px;
+}
+
+button {
+    border-radius: 10px;
+}
+
+button:hover{
+    color: yellow;
+}
+
+.chat {
+    margin: 20px;
+    padding: 20px;
+    border-radius: 20px;
+    background-color: rgb(127, 88, 168);
+}
+
+label{
+    font-size: 25px;
+}

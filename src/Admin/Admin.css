@@ -1,0 +1,48 @@
+.entries {
+    background-color: aliceblue;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 20px;
+}
+
+.addUser {
+    background-color: aliceblue;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 20px;
+
+    /*text-align: left;*/
+}
+
+.addDev {
+    background-color: aliceblue;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 20px;
+}
+
+.connect {
+    background-color: aliceblue;
+    padding: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 20px;
+}
+
+footer {
+    background-color: aquamarine;
+    margin: 20px;
+    border-radius: 20px;
+}
+
+input {
+    border-radius: 10px;
+}
+
+button {
+    border-radius: 10px;
+}
+
+button:hover{
+    color: yellow;
+}
